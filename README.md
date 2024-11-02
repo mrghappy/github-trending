@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2024-11-02】[microsoft / genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
+* 【2024-11-02】[getmaxun / maxun](https://github.com/getmaxun/maxun) - Free, open-source no-code web data extraction platform. Build custom robots to automate data scraping [In Beta]
+* 【2024-11-02】[GeostatsGuy / DataScienceInteractivePython](https://github.com/GeostatsGuy/DataScienceInteractivePython) - Python interactive dashboards for learning data science
 * 【2024-11-01】[udecode / plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 * 【2024-10-31】[Spooks4576 / Ghost_ESP](https://github.com/Spooks4576/Ghost_ESP) - Ghost ESP is a ESP32 Firmware that Revolutionizes the way we use ESP32 devices in a Pen Testing aspect
 * 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
@@ -159,6 +162,7 @@
 
 ## Html
 
+* 【2024-11-02】[QuivrHQ / MegaParse](https://github.com/QuivrHQ/MegaParse) - File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs.
 * 【2024-10-27】[openfoodfacts / openfoodfacts-server](https://github.com/openfoodfacts/openfoodfacts-server) - Open Food Facts database, API server and web interface - 🐪🦋 Perl, CSS and JS coders welcome 😊 For helping in Python, see Robotoff or taxonomy-editor
 * 【2024-10-26】[ANSHIKA-26 / WordWise](https://github.com/ANSHIKA-26/WordWise) - Blogging website
 * 【2024-10-24】[hugo-fixit / FixIt](https://github.com/hugo-fixit/FixIt) - 🔧 A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题
@@ -186,6 +190,7 @@
 
 ## Unknown
 
+* 【2024-11-02】[elevenlabs / elevenlabs-examples](https://github.com/elevenlabs/elevenlabs-examples) - 
 * 【2024-11-01】[0x4D31 / awesome-threat-detection](https://github.com/0x4D31/awesome-threat-detection) - ✨ A curated list of awesome threat detection and hunting resources 🕵️‍♂️
 * 【2024-10-23】[Cryakl / Ultimate-RAT-Collection](https://github.com/Cryakl/Ultimate-RAT-Collection) - For educational purposes only, samples of 400+ classic/modern trojan builders including screenshots.
 * 【2024-10-23】[SkipToTheEndpoint / OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline) - Community-driven baseline to accelerate Intune adoption and learning.
