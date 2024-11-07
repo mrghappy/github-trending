@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2024-11-07】[haydenbleasel / next-forge](https://github.com/haydenbleasel/next-forge) - Production-grade Turborepo template for Next.js apps.
+* 【2024-11-07】[iterative / datachain](https://github.com/iterative/datachain) - AI-data warehouse to enrich, transform and analyze data from cloud storages
 * 【2024-11-04】[DS4SD / docling](https://github.com/DS4SD/docling) - Get your docs ready for gen AI
 * 【2024-11-03】[jtroo / kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 * 【2024-11-02】[microsoft / genaiscript](https://github.com/microsoft/genaiscript) - Automatable GenAI Scripting
@@ -45,6 +47,7 @@
 
 ## Java
 
+* 【2024-11-07】[binarywang / WxJava](https://github.com/binarywang/WxJava) - 微信开发 Java SDK ，支持包括微信支付，开放平台，小程序，企业微信，视频号，公众号等的后端开发
 * 【2024-11-04】[MovTery / ZalithLauncher](https://github.com/MovTery/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
 * 【2024-10-31】[qaiu / netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
 * 【2024-10-29】[CaffeineMC / sodium](https://github.com/CaffeineMC/sodium) - A Minecraft mod designed to improve frame rates and reduce micro-stutter
