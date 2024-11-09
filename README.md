@@ -62,6 +62,8 @@
 
 ## Python
 
+* 【2024-11-09】[letta-ai / letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is a framework for creating LLM services with memory.
+* 【2024-11-09】[NVIDIA / TransformerEngine](https://github.com/NVIDIA/TransformerEngine) - A library for accelerating Transformer models on NVIDIA GPUs, including using 8-bit floating point (FP8) precision on Hopper and Ada GPUs, to provide better performance with lower memory utilization in both training and inference.
 * 【2024-11-06】[TencentBlueKing / blueking-paas](https://github.com/TencentBlueKing/blueking-paas) - 蓝鲸智云PaaS平台是一个开放式的开发平台，让开发者可以方便快捷地创建、开发、部署和管理 SaaS 应用。它提供了完善的前后台开发框架、服务总线（ESB）、API Gateway、调度引擎、公共组件 等服务。旨在帮助用户快速、低成本的构建免运维运营系统与支撑工具。
 * 【2024-11-01】[timescale / pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 * 【2024-10-30】[PokeAPI / pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
@@ -90,6 +92,7 @@
 
 ## Javascript
 
+* 【2024-11-09】[dotnet / eShopSupport](https://github.com/dotnet/eShopSupport) - A reference .NET application using AI for a customer support ticketing system
 * 【2024-11-06】[frappe / lms](https://github.com/frappe/lms) - Easy to Use, 100% Open Source Learning Management System
 * 【2024-11-03】[SnapDrop / snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 * 【2024-10-31】[poloclub / transformer-explainer](https://github.com/poloclub/transformer-explainer) - Transformer Explained Visually: Learn How LLM Transformer Models Work with Interactive Visualization
