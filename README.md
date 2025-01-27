@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2025-01-27】[onlook-dev / onlook](https://github.com/onlook-dev/onlook) - The open source Cursor for Designers. Design directly in your live React app and publish your changes to code.
 * 【2025-01-26】[lightpanda-io / browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 * 【2025-01-26】[yassinebenaid / bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to static binaries.
 * 【2025-01-25】[nextjs / saas-starter](https://github.com/nextjs/saas-starter) - Get started quickly with Next.js, Postgres, Stripe, and shadcn/ui.
@@ -140,6 +141,7 @@
 
 ## Java
 
+* 【2025-01-27】[PurpurMC / Purpur](https://github.com/PurpurMC/Purpur) - Purpur is a drop-in replacement for Paper servers designed for configurability, and new fun and exciting gameplay features.
 * 【2025-01-26】[aeron-io / aeron](https://github.com/aeron-io/aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport
 * 【2025-01-21】[apache / ozone](https://github.com/apache/ozone) - Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.
 * 【2025-01-20】[oliexdev / openScale](https://github.com/oliexdev/openScale) - Open-source weight and body metrics tracker, with support for Bluetooth scales
@@ -536,6 +538,7 @@
 
 ## Html
 
+* 【2025-01-27】[hanwenguo / hugo-theme-nostyleplease](https://github.com/hanwenguo/hugo-theme-nostyleplease) - a (nearly) no-CSS, fast, minimalist Hugo theme ported from riggraz/no-style-please.
 * 【2025-01-26】[18F / handbook](https://github.com/18F/handbook) - The home of policies and guidelines that make up TTS.
 * 【2025-01-26】[valiantlynx / ollama-docker](https://github.com/valiantlynx/ollama-docker) - Welcome to the Ollama Docker Compose Setup! This project simplifies the deployment of Ollama using Docker Compose, making it easy to run Ollama with all its dependencies in a containerized environment
 * 【2025-01-22】[OCA / pos](https://github.com/OCA/pos) - 
